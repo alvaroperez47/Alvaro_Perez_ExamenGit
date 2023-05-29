@@ -7,7 +7,7 @@ public class clase {
 		String nombre="alvaro";
 
 		System.out.println(nombre);
-		
+		int edad=100;
 
 		System.out.println(nombre);
 
