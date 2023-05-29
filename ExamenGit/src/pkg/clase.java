@@ -5,9 +5,12 @@ public class clase {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String nombre="alvaro";
-		int edad=0;
+
 		System.out.println(nombre);
 		
+
+		System.out.println(nombre);
+
 	}
 
 }
